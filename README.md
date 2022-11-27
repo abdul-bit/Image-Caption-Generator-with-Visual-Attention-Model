@@ -1,1 +1,1 @@
-"# Image-Caption-Generator-with-Visual-Attention-Model" 
+Image interpretation has become significantly important as social media images and various other types of informational images are always utilised in our daily lives, We use the encoder decoder architecture to generate relevant image captions for the images to solve this problem and we have used the bahdanou's attention mechanism to model attention in images from the neural machine translation paper.The validation of the captions is performed on a dataset which is a combination of Flickr 8k and COCO images.
